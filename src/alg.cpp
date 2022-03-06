@@ -44,5 +44,3 @@ a += pown(-1, i - 1) * calcItem(x, 2 * i - 2);
 }
 return a;
 }
-
-Написать @IMPaul
